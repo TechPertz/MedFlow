@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Diabetes is a chronic condition characterized by high blood sugar levels. Type 1 diabetes involves the immune system attacking insulin-producing cells, while Type 2 diabetes involves insulin resistance. Symptoms include frequent urination, increased thirst, hunger, and unexplained weight loss.",
+    "metadata": {
+      "condition": "Diabetes",
+      "type": "chronic"
+    }
+  },
+  {
+    "content": "Hypertension, or high blood pressure, is a condition where the force of blood against artery walls is too high. It often has no symptoms but can lead to serious health issues like heart attack, stroke, and kidney damage.",
+    "metadata": {
+      "condition": "Hypertension",
+      "type": "chronic"
+    }
+  },
+  {
+    "content": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways. Symptoms include wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early morning.",
+    "metadata": {
+      "condition": "Asthma",
+      "type": "respiratory"
+    }
+  },
+  {
+    "content": "Alzheimer's disease is a progressive neurological disorder that causes brain cells to degenerate and die. It is the most common cause of dementia, leading to a continuous decline in thinking, behavioral and social skills.",
+    "metadata": {
+      "condition": "Alzheimer's",
+      "type": "neurological"
+    }
+  },
+  {
+    "content": "Coronary artery disease develops when the major blood vessels that supply your heart become damaged or diseased. Symptoms include chest pain, shortness of breath, and in severe cases, heart attack.",
+    "metadata": {
+      "condition": "Coronary Artery Disease",
+      "type": "cardiovascular"
+    }
+  }
+]

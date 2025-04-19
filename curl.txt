@@ -1,0 +1,16 @@
+# Call 1: Query without mentioning clinical trials
+curl -X POST "http://localhost:8000/analyze" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "symptoms": "I have symptoms of high blood sugar, frequent urination, and constant thirst",
+    "history": "Type 2 diabetes diagnosed 2 years ago"
+  }'
+
+
+# Call 2: Same query but explicitly asking for clinical trials
+curl -X POST "http://localhost:8000/analyze" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "symptoms": "I have symptoms of high blood sugar, frequent urination, and constant thirst. Are there any clinical trials available for this condition?",
+    "history": "Type 2 diabetes diagnosed 2 years ago"
+  }'

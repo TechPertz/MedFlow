@@ -1,0 +1,125 @@
+COMPREHENSIVE HEALTH ASSESSMENT REPORT
+=====================================
+Patient ID: 12345678
+Date of Examination: 2023-11-15
+Ordering Physician: Dr. Sarah Johnson
+
+DEMOGRAPHIC INFORMATION
+----------------------
+Age: 42 years
+Gender: Male
+Height: 175 cm (5'9")
+Weight: 82 kg (180.4 lbs)
+BMI: 26.8 kg/m² [ABOVE OPTIMAL RANGE]
+   Normal range: 18.5-24.9 kg/m²
+
+VITAL SIGNS
+-----------
+Blood Pressure: 138/88 mmHg [SLIGHTLY ELEVATED]
+   Normal range: <120/80 mmHg
+Pulse Rate: 72 bpm
+   Normal range: 60-100 bpm
+Respiratory Rate: 16 breaths/min
+   Normal range: 12-20 breaths/min
+Body Temperature: 98.2°F (36.8°C)
+   Normal range: 97.8-99.1°F (36.5-37.3°C)
+Oxygen Saturation (SpO2): 98%
+   Normal range: 95-100%
+
+BLOOD GLUCOSE ASSESSMENT
+-----------------------
+Fasting Blood Glucose: 108 mg/dL [BORDERLINE HIGH]
+   Normal range: 70-99 mg/dL
+HbA1c: 5.6%
+   Normal range: 4.0-5.6%
+   Pre-diabetes: 5.7-6.4%
+
+LIPID PROFILE
+------------
+Total Cholesterol: 195 mg/dL
+   Normal range: <200 mg/dL
+HDL Cholesterol: 45 mg/dL
+   Optimal range: >40 mg/dL (men), >50 mg/dL (women)
+LDL Cholesterol: 128 mg/dL [BORDERLINE HIGH]
+   Optimal range: <100 mg/dL
+Triglycerides: 160 mg/dL [BORDERLINE HIGH]
+   Normal range: <150 mg/dL
+Total Cholesterol/HDL Ratio: 4.3
+   Optimal range: <5.0
+
+LIVER FUNCTION TESTS
+-------------------
+ALT (SGPT): 32 U/L
+   Normal range: 7-56 U/L
+AST (SGOT): 28 U/L
+   Normal range: 5-40 U/L
+Alkaline Phosphatase: 85 U/L
+   Normal range: 44-147 U/L
+Total Bilirubin: 0.8 mg/dL
+   Normal range: 0.1-1.2 mg/dL
+
+KIDNEY FUNCTION TESTS
+--------------------
+Blood Urea Nitrogen (BUN): 15 mg/dL
+   Normal range: 7-20 mg/dL
+Creatinine: 0.9 mg/dL
+   Normal range: 0.7-1.3 mg/dL
+eGFR: 92 mL/min/1.73m²
+   Normal range: >90 mL/min/1.73m²
+
+ELECTROLYTES
+-----------
+Sodium: 141 mEq/L
+   Normal range: 136-145 mEq/L
+Potassium: 4.2 mEq/L
+   Normal range: 3.5-5.1 mEq/L
+Chloride: 102 mEq/L
+   Normal range: 98-107 mEq/L
+Calcium: 9.4 mg/dL
+   Normal range: 8.5-10.2 mg/dL
+
+COMPLETE BLOOD COUNT
+-------------------
+White Blood Cell Count: 7.2 × 10³/μL
+   Normal range: 4.5-11.0 × 10³/μL
+Red Blood Cell Count: 4.8 × 10⁶/μL
+   Normal range: 4.5-5.9 × 10⁶/μL (men), 4.1-5.1 × 10⁶/μL (women)
+Hemoglobin: 14.6 g/dL
+   Normal range: 13.5-17.5 g/dL (men), 12.0-15.5 g/dL (women)
+Hematocrit: 43%
+   Normal range: 41-50% (men), 36-44% (women)
+Platelet Count: 260 × 10³/μL
+   Normal range: 150-450 × 10³/μL
+
+THYROID FUNCTION
+---------------
+TSH: 2.5 μIU/mL
+   Normal range: 0.4-4.0 μIU/mL
+Free T4: 1.2 ng/dL
+   Normal range: 0.8-1.8 ng/dL
+
+SUMMARY AND RECOMMENDATIONS
+--------------------------
+Overall assessment: Generally healthy with mild metabolic risk factors
+
+Areas of concern:
+- Slightly elevated blood pressure (pre-hypertension)
+- Borderline high fasting glucose (pre-diabetes risk)
+- Borderline high LDL cholesterol and triglycerides
+- BMI in the overweight category
+
+Recommendations:
+1. Dietary modifications: Reduce sodium and refined carbohydrate intake
+2. Regular physical activity: Aim for 150 minutes of moderate exercise weekly
+3. Weight management: Target 5-10% weight reduction
+4. Follow-up appointment in 3 months to reassess cardiovascular risk factors
+5. Consider daily low-dose aspirin (consult with physician)
+
+The patient exhibits mostly normal health parameters with a few early warning signs 
+of metabolic syndrome. With appropriate lifestyle modifications, these risk factors 
+can likely be addressed without medication at this time.
+
+-------------------------------
+Dr. Sarah Johnson, MD
+Board Certified in Internal Medicine
+License #: MD12345

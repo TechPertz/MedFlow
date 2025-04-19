@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Evaluation of Continuous Glucose Monitoring in People with Type 1 Diabetes",
+    "condition": "Type 1 Diabetes",
+    "intervention": "Continuous Glucose Monitor",
+    "eligibility": "Ages 18-70, diagnosed with Type 1 diabetes for at least 1 year, currently using insulin"
+  },
+  {
+    "title": "Novel Antihypertensive Medication Trial",
+    "condition": "Hypertension",
+    "intervention": "Drug XYZ-123",
+    "eligibility": "Ages 30-75, systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg"
+  },
+  {
+    "title": "Targeted Therapy for Severe Asthma",
+    "condition": "Asthma",
+    "intervention": "Monoclonal Antibody Treatment",
+    "eligibility": "Ages 12-75, diagnosis of severe asthma, inadequate control with current therapy"
+  },
+  {
+    "title": "Early Intervention in Alzheimer's Disease",
+    "condition": "Alzheimer's Disease",
+    "intervention": "Cognitive Training Program and Anti-amyloid Therapy",
+    "eligibility": "Ages 55-85, early-stage Alzheimer's diagnosis, MMSE score 20-26"
+  },
+  {
+    "title": "Statin Alternative for Coronary Artery Disease",
+    "condition": "Coronary Artery Disease",
+    "intervention": "PCSK9 Inhibitor",
+    "eligibility": "Ages 40-80, documented CAD, statin intolerance"
+  },
+  {
+    "title": "Lifestyle Intervention for Type 2 Diabetes Prevention",
+    "condition": "Pre-diabetes",
+    "intervention": "Structured Diet and Exercise Program",
+    "eligibility": "Ages 25-65, BMI ≥27, HbA1c 5.7-6.4%"
+  }
+]
